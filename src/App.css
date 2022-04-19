@@ -1,0 +1,13 @@
+:root {
+  --facebook-blue:#2e81f4;
+  --facebook-white:#eff2f5;
+
+}
+
+.app {
+  background-color: #f1f2f5;
+  }
+
+.app__body {
+  display: flex;
+}
